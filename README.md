@@ -49,7 +49,7 @@ Key data insights include:
 
 ## How to Use
 
-1. **Access the App**: [EZ Laundry Management System App](#) *https://oaa.app.link/launch-app-b167459b-4312-4de1-b146-a4b14e3d4732*
+1. **Access the App**: [EZ Laundry Management System App](#*https://oaa.app.link/launch-app-b167459b-4312-4de1-b146-a4b14e3d4732*) .
 2. **Data Entry**: Enter new orders in the designated row and update for automated tracking.
 3. **Explore Reports**: Use Power Pivot tables and dynamic charts to review payment methods, inventory status, sales, and urgent orders.
 
